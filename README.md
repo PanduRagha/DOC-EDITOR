@@ -57,7 +57,7 @@ The goal of this project is to build a real-time collaborative document editor w
 5. Open the application in a web browser and start collaborating
 
 ## 🌐 Live Demo
-
+<img width="1365" height="527" alt="Image" src="https://github.com/user-attachments/assets/1db987ee-11e7-455a-9937-84fcabb11061" />
 
 
 ## 👤 Author
